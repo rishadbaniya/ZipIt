@@ -9,4 +9,4 @@ This project will be me learning new stuff, such as completely implementing arch
 
 - [rfc-1951](https://www.ietf.org/rfc/rfc1951.txt)
 - 
-- [](https://datatracker.ietf.org/doc/html/rfc1952)
+- [rfc-1952](https://datatracker.ietf.org/doc/html/rfc1952)
